@@ -128,6 +128,8 @@ class _AnaSayfaState extends State<AnaSayfa> {
                      child: const Center(child: Text("Slider 2",style: TextStyle(fontSize: 20,color: Colors.white),))),
                     Container(color: Colors.brown, margin: const EdgeInsets.symmetric(horizontal: 20),
                      child: const Center(child: Text("Slider 3",style: TextStyle(fontSize: 20,color: Colors.white),))),
+                    Container(color: Colors.brown, margin: const EdgeInsets.symmetric(horizontal: 20),
+                     child: const Center(child: Text("Slider 4",style: TextStyle(fontSize: 20,color: Colors.white),))),
                   ],
                 ),
               ),
